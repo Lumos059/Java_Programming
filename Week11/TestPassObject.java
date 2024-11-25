@@ -1,3 +1,4 @@
+//Example 9.5
 public class TestPassObject {
     public static void main(String[] args) {
         CircleWithPrivateDataFields myCircle = new CircleWithPrivateDataFields(1);
